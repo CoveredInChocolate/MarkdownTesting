@@ -1,1 +1,5 @@
 # MarkdownTesting
+
+$$
+R_1
+$$
